@@ -2,8 +2,8 @@
 # Site
 
 title: Music for Mind
-url: "https://proud-alligator.cloudvent.net"
-baseurl:
+url: "https://musicformind.ml"
+baseurl: "https://musicformind.ml"
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
@@ -16,7 +16,7 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Hydra Template
+  name: Music for Mind
   links:
     - https://instagram.com/ncs_lancaster
 
