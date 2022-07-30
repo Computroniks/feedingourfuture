@@ -1,24 +1,16 @@
-- name: Pricing
-  link: /pricing/
-  new_window: false
-  highlight: false
 - name: Blog
   link: /blog/
   new_window: false
   highlight: false
-- name: About
-  link: /about/
-  new_window: false
-  highlight: false
-- name: Contact
-  link: /contact/
-  new_window: false
-  highlight: false
-- name: Login
-  link: /
+- name: Instagram
+  link: https://instagram.com/ncs_lancaster
   new_window: true
   highlight: false
-- name: Sign Up
+- name: Mind website
+  link: https://mind.org.uk
+  new_window: true
+  highlight: false
+- name: Donate
   link: /
   new_window: true
   highlight: true
