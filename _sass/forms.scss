@@ -1,5 +1,5 @@
 .button a, input[type=submit] {
-	color: #fff;
+	color: rgba(0,0,0,.8);
 	text-decoration: none;
 	padding: 10px 30px;
 	background: $brand-color;
@@ -9,7 +9,7 @@
 }
 
 .button a:hover, input[type=submit]:hover {
-	border: 1px solid #fff;
+	border: 1px solid $text-color;
 	background: $secondary-brand-color;
 	cursor: pointer;
 }
@@ -17,12 +17,12 @@
 .button.alt a {
 	background: rgba(255,255,255,0.15);
 	border-radius: 3px;
-	border: 1px solid rgba(255, 255, 255, 0.3);
+	border: 1px solid $secondary-brand-color;
 	padding: 16px 50px;
 }
 
 .button.alt a:hover {
-	background: #fff;
+	background: $secondary-brand-color;
 	color: $brand-color;
 }
 

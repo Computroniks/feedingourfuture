@@ -70,8 +70,8 @@ footer {
 	padding: 50px 0 50px 0;
 	font-size: 1.1em;
 	position: relative;
-	background: #050033;
-	color: #fff;
+	background: $secondary-brand-color;
+	color: $text-color;
 
 	.copyright {
 		font-size: .8em;
@@ -85,13 +85,13 @@ footer {
 	
 	&,
 	a {
-		color: #999;
+		color: $text-color;
 	}
 
 	h2 {
 		font-size: 1.4em;
 		margin: 30px 0;
-		color: #ccc;
+		color: $text-color;
 	}
 
 	.footer-columns {
