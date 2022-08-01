@@ -6,11 +6,11 @@
   link: https://instagram.com/ncs_lancaster
   new_window: true
   highlight: false
-- name: Mind website
-  link: https://mind.org.uk
+- name: The Olive Branch
+  link: https://the-olivebranch.org.uk/
   new_window: true
   highlight: false
 - name: Donate
-  link: /
+  link: https://the-olivebranch.org.uk/support
   new_window: true
   highlight: true

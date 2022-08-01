@@ -1,22 +1,22 @@
 # ----
 # Site
 
-title: Music for Mind
-url: "https://musicformind.ml"
-baseurl: "https://musicformind.ml"
+title: Feeding Our Future
+url: "https://feedingourfuture.ml"
+baseurl: ""
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Music for Mind social action project
+description: Feeding our Future social action project
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Music for Mind
+  name: Feeding our Future
   links:
     - https://instagram.com/ncs_lancaster
 
