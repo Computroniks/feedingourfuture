@@ -9,8 +9,8 @@
 }
 
 .button a:hover, input[type=submit]:hover {
-	border: 1px solid $text-color;
-	background: $secondary-brand-color;
+	border: 1px solid $secondary-brand-color;
+	// background: $secondary-brand-color;
 	cursor: pointer;
 }
 
